@@ -1,0 +1,1 @@
+This is an experiment to test image uploads (in JS) using github API.
